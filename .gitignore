@@ -1,0 +1,7 @@
+To ignore `node_modules` directory in Git, you can create a `.gitignore` file in the root directory of your Git repository (if you don't already have one) and add the following line to it:
+
+```
+node_modules/
+```
+
+This will tell Git to ignore any directory named `node_modules` and its contents.
